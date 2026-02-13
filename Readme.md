@@ -35,7 +35,7 @@ The objective was to understand the impact of regularization, handle skewed targ
 ### Before Log Transformation
 ![Before Log](Images/BeforeLog.png)
 ### After log Transformation
-![After Log](Images/After_Log.png)
+![After Log](https://github.com/AnshuPramanik/House_Price_Prediction_ML/blob/main/Before_Log.png)
 
 ## 🧹 Data Preprocessing
 
@@ -114,6 +114,7 @@ Baseline model performance evaluated using:
 
 **Anshu Pramanik**  
  Aspiring Data Scientist
+
 
 
 
