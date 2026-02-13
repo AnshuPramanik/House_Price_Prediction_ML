@@ -33,9 +33,11 @@ The objective was to understand the impact of regularization, handle skewed targ
 
 ## Target Distribution
 ### Before Log Transformation
-![Before Log](Images/Before_Log.png)
+![Before Log](<img width="690" height="541" alt="Before_Log" src="https://github.com/user-attachments/assets/e9e490dd-d254-4518-81b3-20ae8e7ae336" />
+)
 ### After log Transformation
-![Before Log](Images/After_Log.png)
+![Before Log](<img width="690" height="541" alt="After_Log" src="https://github.com/user-attachments/assets/51dfa207-1f10-495f-8d1e-329d2462140d" />
+)
 
 ## 🧹 Data Preprocessing
 
@@ -114,6 +116,7 @@ Baseline model performance evaluated using:
 
 **Anshu Pramanik**  
  Aspiring Data Scientist
+
 
 
 
