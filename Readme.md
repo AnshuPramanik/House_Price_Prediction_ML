@@ -31,6 +31,12 @@ The objective was to understand the impact of regularization, handle skewed targ
 
 ---
 
+## Target Distribution
+### Before Log Transformation
+![Before Log](Images/Before_Log.png)
+### After log Transformation
+![Before Log](Images/After_Log.png)
+
 ## 🧹 Data Preprocessing
 
 - Dropped columns with >80% missing values
@@ -108,6 +114,7 @@ Baseline model performance evaluated using:
 
 **Anshu Pramanik**  
  Aspiring Data Scientist
+
 
 
 
