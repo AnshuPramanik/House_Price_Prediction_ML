@@ -33,7 +33,7 @@ The objective was to understand the impact of regularization, handle skewed targ
 
 ## Target Distribution
 ### Before Log Transformation
-![Before Log](Images\BeforeLog.png)
+![Before Log](Images/BeforeLog.png)
 ### After log Transformation
 ![After Log](Images/After_Log.png)
 
@@ -114,6 +114,7 @@ Baseline model performance evaluated using:
 
 **Anshu Pramanik**  
  Aspiring Data Scientist
+
 
 
 
